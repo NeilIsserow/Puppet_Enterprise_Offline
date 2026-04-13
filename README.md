@@ -14,10 +14,8 @@ Each project has its own repo on Github. Everything is shared and open for anyon
 
 All of this will remain in BETA as it improves. I have a fully working environment in GCP that I use for testing but your results may vary with each or all of these components.
 
-GITNANO: Github Page
-
-REPONANO: Github Page
-
-FORGENANO: Github Page
+**[GITNANO](https://github.com/NeilIsserow/gitnano)**
+**[REPONANO](https://github.com/NeilIsserow/reponano)**
+**[FORGENANO](https://github.com/NeilIsserow/forgenano)**
 
 **I do not consider any of this production ready or tested and consider this all POC and BETA material however anyone is free to use and share this as they wish!**
