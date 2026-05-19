@@ -21,4 +21,4 @@ All of this will remain in BETA as it improves. I have a fully working environme
 **[FORGENANO](https://github.com/NeilIsserow/forgenano)**
 **[OPENAINANO](https://github.com/NeilIsserow/openainano)**
 
-**I do not consider any of this production ready or tested and consider this all POC and BETA material however anyone is free to use and share this as they wish!**
+**I do not consider any of this production ready or tested and consider this all POC and BETA material however anyone is free to use and share this as they wish! Please note my currentl eomployer, Perforce Inc and Puppet provide no warranty, Support or any services related to these repo's and all of the code is provided as-is**
