@@ -19,6 +19,6 @@ All of this will remain in BETA as it improves. I have a fully working environme
 **[GITNANO](https://github.com/NeilIsserow/gitnano)**
 **[REPONANO](https://github.com/NeilIsserow/reponano)**
 **[FORGENANO](https://github.com/NeilIsserow/forgenano)**
-**[OPENAINANO]https://github.com/NeilIsserow/openainano)**
+**[OPENAINANO](https://github.com/NeilIsserow/openainano)**
 
 **I do not consider any of this production ready or tested and consider this all POC and BETA material however anyone is free to use and share this as they wish!**
