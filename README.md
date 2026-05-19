@@ -6,6 +6,8 @@ Project Nano is my attempt to build a fully offline solution for Puppet Enterpri
 
 **- Offline Forge:** Most customers will include modules from Puppet Forge. At a minimum the standard modules such as stdlib and many others will be used within the environment. There are few offline solutions for this that are easily used, attainable cost wise and flexible enough while also being lightweight for my needs. I decided to write my own version called FORGENANO.
 
+**- Offline AI:** Currently PE only supports the large models in OpenAI. I have written a bridge to allow users to use LocalAI. CUrrenly there are 2 modules, one to use Ollama locally as well as passthrough to ollama.com and a 2nd one that uses ollama.com with a token natively.
+
 There are also several other offline requirements however these did not require me to write anything specific. For example I use **BOLT**, **PDK** and the **Puppet agent** as well as **PEADM** module and of course need the version of Puppet Enterprise I would use for an install. All of these are already catered for in a simple way and would be present in my build environment.
 
 I used AI to help me with the code for this project. Without AI I would have struggled not being a great coder but rather an infra person. I chose Python for all of my projects and chose to ensure that my code could remain open source so anyone can just build on it. My skills as a software engineer are not fantastic but I do know Python somewhat and using AI to do this with Python was very approachable.
