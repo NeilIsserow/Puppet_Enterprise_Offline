@@ -17,9 +17,10 @@ I have several related projects:
 
 There are also several other offline requirements however these did not require me to write anything specific. For example I use **BOLT**, **PDK** and the **Puppet agent** as well as **PEADM** module and of course need the version of Puppet Enterprise I would use for an install. All of these are already catered for in a simple way and would be present in my build environment.
 
-***Some other projects:***
+**Some other projects:
 
-**- Scanano:** This is a simple dumbed down nessus api clone to allow me to pretend I have nessus running to test out PE vulnerability Management. It is not a replacement in any way but useful for testing.
+**- Scanano:** **This is a simple dumbed down nessus api clone to allow me to pretend I have nessus running to test out PE vulnerability Management. It is not a replacement in any way but useful for testing.
+**
 ---
 ***Summary***
 Of course all of these tools can be used online or independent of each other but the goal is to create a suit of tools I can easily use in my lab and in my deployment scripts to setup any version of Puppet Enterprise and test all of it's features as locally as possible.
